@@ -10,3 +10,15 @@ Day 2
 - Array Indexing and Slicing
 - Data Types
 - Copy and View
+
+Day 3
+-Array shape, reshape, iterate
+
+Day 4
+-Join, Split
+
+Day 5
+- Search, Sort, Filter Arrays
+
+Day 6
+- Random module, Data distribution, Shuffle and Permutation
