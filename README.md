@@ -22,3 +22,6 @@ Day 5
 
 Day 6
 - Random module, Data distribution, Shuffle and Permutation
+
+Day 7
+- Pandas bascis, working with datasets (csv, json files)
