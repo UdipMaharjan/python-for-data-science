@@ -25,3 +25,6 @@ Day 6
 
 Day 7
 - Pandas bascis, working with datasets (csv, json files)
+
+Day 8
+- Tasks regarding Numpy and Pandas
